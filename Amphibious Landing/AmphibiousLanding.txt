@@ -5,6 +5,7 @@ A UPP-controlled oilfield with a Normady-style beach for the USCM to storm.
 Contributors:
 - Monkeyfist - Parts of the UPP base are copied from his work
 - WarFan1815 - Mapping of the rest of the map
+- ThePiachu - Fixed map compile errors
 
 Last working commit:
-- 
+- af368eb0c72c720ef69a9080f281f9e7927b8f59 (2022-12-22)
