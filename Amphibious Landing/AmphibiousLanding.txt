@@ -1,0 +1,10 @@
+Amphibious Landing
+
+A UPP-controlled oilfield with a Normady-style beach for the USCM to storm.
+
+Contributors:
+- Monkeyfist - Parts of the UPP base are copied from his work
+- WarFan1815 - Mapping of the rest of the map
+
+Last working commit:
+- 
